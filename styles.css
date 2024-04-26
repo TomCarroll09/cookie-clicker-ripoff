@@ -1,0 +1,9 @@
+#biscuitButton {
+    border: none;
+    background-color: white;
+    display: block;
+  }
+  .scoreWords {
+    border: 2px solid red;
+    display: inline;
+  }
